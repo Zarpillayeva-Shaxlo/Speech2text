@@ -1,3 +1,2 @@
 streamlit
-SpeechRecognition
-pyaudio
+speech_recognition
